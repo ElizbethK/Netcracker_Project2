@@ -1,3 +1,3 @@
 # Hometask2
 
-[Author](https://github.com/ElizbethK/Hometask2/blob/main/project1/Author.java)
+[Project 1](https://github.com/ElizbethK/Hometasks1/blob/main/README.md)
