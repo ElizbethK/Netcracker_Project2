@@ -9,7 +9,7 @@
 Project 2:
 
 
---> Horstmann_C_S_Core_Java_SE_9_for_the_Impatient_2nd_Edition_2018
+        --> Horstmann_C_S_Core_Java_SE_9_for_the_Impatient_2nd_Edition_2018
 
 
 [Chapter 1: FUNDAMENTAL PROGRAMMING STRUCTURES](https://github.com/ElizbethK/Hometask2/tree/main/project2/chapter1)
