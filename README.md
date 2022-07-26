@@ -1,18 +1,28 @@
 # Hometask2
 
-[Project 1](https://github.com/ElizbethK/Hometasks1/blob/main/README.md)
+- [Project 1](https://github.com/ElizbethK/Hometasks1/blob/main/README.md)
+
+
+
+***********************************
 
 
 
 
 
-Project 2:
 
 
-        --> Horstmann_C_S_Core_Java_SE_9_for_the_Impatient_2nd_Edition_2018
+- Project 2:
 
 
+                --> Horstmann_C_S_Core_Java_SE_9_for_the_Impatient_2nd_Edition_2018 <--
+
+
+
+*********************************************************
 [Chapter 1: FUNDAMENTAL PROGRAMMING STRUCTURES](https://github.com/ElizbethK/Hometask2/tree/main/project2/chapter1)
+
+*********************************************************
 
 [ex.2:](https://github.com/ElizbethK/Hometask2/blob/main/project2/chapter1/Angle.java)
 Write a program that reads an integer angle (which may be positive or
@@ -60,8 +70,11 @@ your program should respond affirmatively.
 
 
 
+*********************************************************
 
 [Chapter 2: OBJECT-ORIENTED PROGRAMMING](https://github.com/ElizbethK/Hometask2/tree/main/project2/chapter2)
+
+*********************************************************
 
 [ex.5:](https://github.com/ElizbethK/Hometask2/blob/main/project2/chapter2/Point.java)
  Implement an immutable class Point that describes a point in the plane.
@@ -93,7 +106,11 @@ The point of this exercise is not to do anything useful with CSV files, but
 to practice using a library that is delivered as a JAR file.
 
 
+
+*********************************************************
 [Chapter 3: INTERFACES AND LAMBDA EXPRESSIONS](https://github.com/ElizbethK/Hometask2/tree/main/project2/chapter3)
+
+*********************************************************
 
 [ex.1:](https://github.com/ElizbethK/Hometask2/blob/main/project2/chapter3/Measurable.java)
 Provide an interface Measurable with a method double getMeasure() that measures an object in some way. Make Employee implement Measurable. Provide
